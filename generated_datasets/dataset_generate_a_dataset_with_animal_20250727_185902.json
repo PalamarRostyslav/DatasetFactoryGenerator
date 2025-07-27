@@ -1,0 +1,47 @@
+[
+  {
+    "animal_name": "Eagle",
+    "species": "Haliaeetus leucocephalus",
+    "category": "bird",
+    "has_wings": true,
+    "habitat": "sky/trees",
+    "diet": "carnivore",
+    "average_weight_kg": 4.5
+  },
+  {
+    "animal_name": "Lion",
+    "species": "Panthera leo",
+    "category": "mammal",
+    "has_wings": false,
+    "habitat": "savanna",
+    "diet": "carnivore",
+    "average_weight_kg": 190
+  },
+  {
+    "animal_name": "Penguin",
+    "species": "Spheniscidae",
+    "category": "bird",
+    "has_wings": true,
+    "habitat": "arctic/water",
+    "diet": "piscivore",
+    "average_weight_kg": 30
+  },
+  {
+    "animal_name": "Elephant",
+    "species": "Loxodonta africana",
+    "category": "mammal",
+    "has_wings": false,
+    "habitat": "savanna",
+    "diet": "herbivore",
+    "average_weight_kg": 5000
+  },
+  {
+    "animal_name": "Hummingbird",
+    "species": "Trochilidae",
+    "category": "bird",
+    "has_wings": true,
+    "habitat": "tropical",
+    "diet": "nectarivore",
+    "average_weight_kg": 0.004
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "The Last of Us",
+    "genre": "Action-Adventure",
+    "subgenre": "Survival Horror",
+    "platform": "PlayStation",
+    "releaseYear": 2013,
+    "multiplayer": false,
+    "rating": "M",
+    "viewPerspective": "Third-Person"
+  },
+  {
+    "id": 2,
+    "title": "FIFA 23",
+    "genre": "Sports",
+    "subgenre": "Football",
+    "platform": "Multi-platform",
+    "releaseYear": 2022,
+    "multiplayer": true,
+    "rating": "E",
+    "viewPerspective": "Third-Person"
+  },
+  {
+    "id": 3,
+    "title": "Minecraft",
+    "genre": "Sandbox",
+    "subgenre": "Survival",
+    "platform": "Multi-platform",
+    "releaseYear": 2011,
+    "multiplayer": true,
+    "rating": "E10+",
+    "viewPerspective": "First-Person"
+  },
+  {
+    "id": 4,
+    "title": "StarCraft II",
+    "genre": "Strategy",
+    "subgenre": "RTS",
+    "platform": "PC",
+    "releaseYear": 2010,
+    "multiplayer": true,
+    "rating": "T",
+    "viewPerspective": "Top-Down"
+  },
+  {
+    "id": 5,
+    "title": "Pokemon Scarlet",
+    "genre": "RPG",
+    "subgenre": "JRPG",
+    "platform": "Nintendo Switch",
+    "releaseYear": 2022,
+    "multiplayer": true,
+    "rating": "E",
+    "viewPerspective": "Third-Person"
+  },
+  {
+    "id": 6,
+    "title": "Counter-Strike: Global Offensive",
+    "genre": "Shooter",
+    "subgenre": "FPS",
+    "platform": "PC",
+    "releaseYear": 2012,
+    "multiplayer": true,
+    "rating": "M",
+    "viewPerspective": "First-Person"
+  },
+  {
+    "id": 7,
+    "title": "Tetris",
+    "genre": "Puzzle",
+    "subgenre": "Block-Matching",
+    "platform": "Multi-platform",
+    "releaseYear": 1984,
+    "multiplayer": true,
+    "rating": "E",
+    "viewPerspective": "2D"
+  },
+  {
+    "id": 8,
+    "title": "Dark Souls III",
+    "genre": "Action-RPG",
+    "subgenre": "Souls-like",
+    "platform": "Multi-platform",
+    "releaseYear": 2016,
+    "multiplayer": true,
+    "rating": "M",
+    "viewPerspective": "Third-Person"
+  },
+  {
+    "id": 9,
+    "title": "The Sims 4",
+    "genre": "Simulation",
+    "subgenre": "Life Simulation",
+    "platform": "Multi-platform",
+    "releaseYear": 2014,
+    "multiplayer": false,
+    "rating": "T",
+    "viewPerspective": "Isometric"
+  },
+  {
+    "id": 10,
+    "title": "Super Mario Odyssey",
+    "genre": "Platform",
+    "subgenre": "3D Platform",
+    "platform": "Nintendo Switch",
+    "releaseYear": 2017,
+    "multiplayer": false,
+    "rating": "E10+",
+    "viewPerspective": "Third-Person"
+  },
+  {
+    "id": 11,
+    "title": "Civilization VI",
+    "genre": "Strategy",
+    "subgenre": "4X",
+    "platform": "Multi-platform",
+    "releaseYear": 2016,
+    "multiplayer": true,
+    "rating": "E10+",
+    "viewPerspective": "Isometric"
+  },
+  {
+    "id": 12,
+    "title": "Mortal Kombat 11",
+    "genre": "Fighting",
+    "subgenre": "2D Fighter",
+    "platform": "Multi-platform",
+    "releaseYear": 2019,
+    "multiplayer": true,
+    "rating": "M",
+    "viewPerspective": "2D"
+  },
+  {
+    "id": 13,
+    "title": "Stardew Valley",
+    "genre": "Simulation",
+    "subgenre": "Farming",
+    "platform": "Multi-platform",
+    "releaseYear": 2016,
+    "multiplayer": true,
+    "rating": "E10+",
+    "viewPerspective": "2D"
+  },
+  {
+    "id": 14,
+    "title": "Portal 2",
+    "genre": "Puzzle",
+    "subgenre": "First-Person Puzzle",
+    "platform": "Multi-platform",
+    "releaseYear": 2011,
+    "multiplayer": true,
+    "rating": "E10+",
+    "viewPerspective": "First-Person"
+  },
+  {
+    "id": 15,
+    "title": "World of Warcraft",
+    "genre": "RPG",
+    "subgenre": "MMORPG",
+    "platform": "PC",
+    "releaseYear": 2004,
+    "multiplayer": true,
+    "rating": "T",
+    "viewPerspective": "Third-Person"
+  },
+  {
+    "id": 16,
+    "title": "Gran Turismo 7",
+    "genre": "Racing",
+    "subgenre": "Simulation Racing",
+    "platform": "PlayStation",
+    "releaseYear": 2022,
+    "multiplayer": true,
+    "rating": "E",
+    "viewPerspective": "First-Person/Third-Person"
+  },
+  {
+    "id": 17,
+    "title": "Among Us",
+    "genre": "Party",
+    "subgenre": "Social Deduction",
+    "platform": "Multi-platform",
+    "releaseYear": 2018,
+    "multiplayer": true,
+    "rating": "E",
+    "viewPerspective": "2D"
+  },
+  {
+    "id": 18,
+    "title": "Resident Evil Village",
+    "genre": "Horror",
+    "subgenre": "Survival Horror",
+    "platform": "Multi-platform",
+    "releaseYear": 2021,
+    "multiplayer": false,
+    "rating": "M",
+    "viewPerspective": "First-Person"
+  },
+  {
+    "id": 19,
+    "title": "Rocket League",
+    "genre": "Sports",
+    "subgenre": "Vehicle Soccer",
+    "platform": "Multi-platform",
+    "releaseYear": 2015,
+    "multiplayer": true,
+    "rating": "E",
+    "viewPerspective": "Third-Person"
+  },
+  {
+    "id": 20,
+    "title": "Animal Crossing: New Horizons",
+    "genre": "Simulation",
+    "subgenre": "Life Simulation",
+    "platform": "Nintendo Switch",
+    "releaseYear": 2020,
+    "multiplayer": true,
+    "rating": "E",
+    "viewPerspective": "Third-Person"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "House Sparrow",
+    "scientific_name": "Passer domesticus",
+    "category": "bird",
+    "habitat": "Urban areas, gardens",
+    "avg_weight_kg": 0.03,
+    "can_fly": true
+  },
+  {
+    "name": "Emperor Penguin",
+    "scientific_name": "Aptenodytes forsteri",
+    "category": "bird",
+    "habitat": "Antarctic coast",
+    "avg_weight_kg": 30,
+    "can_fly": false
+  },
+  {
+    "name": "Bald Eagle",
+    "scientific_name": "Haliaeetus leucocephalus",
+    "category": "bird",
+    "habitat": "Forests near water",
+    "avg_weight_kg": 4.3,
+    "can_fly": true
+  },
+  {
+    "name": "African Elephant",
+    "scientific_name": "Loxodonta africana",
+    "category": "mammal",
+    "habitat": "Savannah, forests",
+    "avg_weight_kg": 6000,
+    "can_fly": false
+  },
+  {
+    "name": "American Alligator",
+    "scientific_name": "Alligator mississippiensis",
+    "category": "reptile",
+    "habitat": "Freshwater wetlands",
+    "avg_weight_kg": 360,
+    "can_fly": false
+  }
+]

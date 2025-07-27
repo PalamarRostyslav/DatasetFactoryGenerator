@@ -1,0 +1,452 @@
+[
+  {
+    "GameID": 1,
+    "GameName": "Minecraft",
+    "Genre": "Adventure",
+    "Platform": "PC",
+    "ReleaseYear": 2011,
+    "Rating": 9.5,
+    "Description": "Survival and exploration game"
+  },
+  {
+    "GameID": 2,
+    "GameName": "The Last of Us",
+    "Genre": "Action",
+    "Platform": "PS3",
+    "ReleaseYear": 2013,
+    "Rating": 9.2,
+    "Description": "Post-apocalyptic action-adventure game"
+  },
+  {
+    "GameID": 3,
+    "GameName": "Fortnite",
+    "Genre": "Battle Royale",
+    "Platform": "PC",
+    "ReleaseYear": 2017,
+    "Rating": 8.5,
+    "Description": "Battle royale game with building mechanics"
+  },
+  {
+    "GameID": 4,
+    "GameName": "The Legend of Zelda: Breath of the Wild",
+    "Genre": "Action",
+    "Platform": "Switch",
+    "ReleaseYear": 2017,
+    "Rating": 9.9,
+    "Description": "Open-world action-adventure game"
+  },
+  {
+    "GameID": 5,
+    "GameName": "Overwatch",
+    "Genre": "First-Person Shooter",
+    "Platform": "PC",
+    "ReleaseYear": 2016,
+    "Rating": 9.1,
+    "Description": "Team-based first-person shooter game"
+  },
+  {
+    "GameID": 6,
+    "GameName": "PlayerUnknown's Battlegrounds",
+    "Genre": "Battle Royale",
+    "Platform": "PC",
+    "ReleaseYear": 2017,
+    "Rating": 8.6,
+    "Description": "Battle royale game with survival mechanics"
+  },
+  {
+    "GameID": 7,
+    "GameName": "Grand Theft Auto V",
+    "Genre": "Action",
+    "Platform": "PC",
+    "ReleaseYear": 2013,
+    "Rating": 9.8,
+    "Description": "Open-world action-adventure game"
+  },
+  {
+    "GameID": 8,
+    "GameName": "Call of Duty: Modern Warfare",
+    "Genre": "First-Person Shooter",
+    "Platform": "PC",
+    "ReleaseYear": 2019,
+    "Rating": 9.3,
+    "Description": "First-person shooter game with realistic graphics"
+  },
+  {
+    "GameID": 9,
+    "GameName": "World of Warcraft",
+    "Genre": "Role-Playing Game",
+    "Platform": "PC",
+    "ReleaseYear": 2004,
+    "Rating": 9.4,
+    "Description": "Massively multiplayer online role-playing game"
+  },
+  {
+    "GameID": 10,
+    "GameName": "Dark Souls",
+    "Genre": "Action",
+    "Platform": "PC",
+    "ReleaseYear": 2011,
+    "Rating": 9.6,
+    "Description": "Action role-playing game with challenging gameplay"
+  },
+  {
+    "GameID": 11,
+    "GameName": "League of Legends",
+    "Genre": "Multiplayer Online Battle Arena",
+    "Platform": "PC",
+    "ReleaseYear": 2009,
+    "Rating": 9.7,
+    "Description": "Multiplayer online battle arena game with MOBA gameplay"
+  },
+  {
+    "GameID": 12,
+    "GameName": "Apex Legends",
+    "Genre": "Battle Royale",
+    "Platform": "PC",
+    "ReleaseYear": 2019,
+    "Rating": 9.0,
+    "Description": "Free-to-play battle royale game with fast-paced gameplay"
+  },
+  {
+    "GameID": 13,
+    "GameName": "Rocket League",
+    "Genre": "Sports",
+    "Platform": "PC",
+    "ReleaseYear": 2015,
+    "Rating": 8.8,
+    "Description": "Physics-based sports game with soccer gameplay"
+  },
+  {
+    "GameID": 14,
+    "GameName": "Rainbow Six Siege",
+    "Genre": "First-Person Shooter",
+    "Platform": "PC",
+    "ReleaseYear": 2015,
+    "Rating": 9.4,
+    "Description": "Tactical first-person shooter game with competitive gameplay"
+  },
+  {
+    "GameID": 15,
+    "GameName": "Overcooked 2",
+    "Genre": "Cooking Simulation",
+    "Platform": "PC",
+    "ReleaseYear": 2018,
+    "Rating": 9.2,
+    "Description": "Cooking simulation game with chaotic gameplay"
+  },
+  {
+    "GameID": 16,
+    "GameName": "Portal 2",
+    "Genre": "Puzzle",
+    "Platform": "PC",
+    "ReleaseYear": 2011,
+    "Rating": 9.9,
+    "Description": "First-person puzzle game with challenging gameplay"
+  },
+  {
+    "GameID": 17,
+    "GameName": "Dota 2",
+    "Genre": "Multiplayer Online Battle Arena",
+    "Platform": "PC",
+    "ReleaseYear": 2013,
+    "Rating": 9.6,
+    "Description": "Multiplayer online battle arena game with MOBA gameplay"
+  },
+  {
+    "GameID": 18,
+    "GameName": "Tom Clancy's Ghost Recon: Wildlands",
+    "Genre": "Tactical",
+    "Platform": "PC",
+    "ReleaseYear": 2017,
+    "Rating": 9.1,
+    "Description": "Tactical third-person shooter game with open-world gameplay"
+  },
+  {
+    "GameID": 19,
+    "GameName": "The Elder Scrolls V: Skyrim",
+    "Genre": "Action Role-Playing Game",
+    "Platform": "PC",
+    "ReleaseYear": 2011,
+    "Rating": 9.8,
+    "Description": "Action role-playing game with open-world gameplay"
+  },
+  {
+    "GameID": 20,
+    "GameName": "Destiny 2",
+    "Genre": "First-Person Shooter",
+    "Platform": "PC",
+    "ReleaseYear": 2017,
+    "Rating": 9.5,
+    "Description": "First-person shooter game with MMO elements"
+  },
+  {
+    "GameID": 21,
+    "GameName": "Monster Hunter: World",
+    "Genre": "Action Role-Playing Game",
+    "Platform": "PC",
+    "ReleaseYear": 2018,
+    "Rating": 9.4,
+    "Description": "Action role-playing game with hunting gameplay"
+  },
+  {
+    "GameID": 22,
+    "GameName": "Warframe",
+    "Genre": "Cooperative Third-Person Shooter",
+    "Platform": "PC",
+    "ReleaseYear": 2013,
+    "Rating": 9.3,
+    "Description": "Cooperative third-person shooter game with sci-fi setting"
+  },
+  {
+    "GameID": 23,
+    "GameName": "StarCraft II",
+    "Genre": "Real-Time Strategy",
+    "Platform": "PC",
+    "ReleaseYear": 2010,
+    "Rating": 9.6,
+    "Description": "Real-time strategy game with competitive gameplay"
+  },
+  {
+    "GameID": 24,
+    "GameName": "Cuphead",
+    "Genre": "Run and Gun",
+    "Platform": "PC",
+    "ReleaseYear": 2017,
+    "Rating": 9.7,
+    "Description": "Run and gun game with challenging gameplay"
+  },
+  {
+    "GameID": 25,
+    "GameName": "Sea of Thieves",
+    "Genre": "Adventure",
+    "Platform": "PC",
+    "ReleaseYear": 2018,
+    "Rating": 9.2,
+    "Description": "Adventure game with pirate setting"
+  },
+  {
+    "GameID": 26,
+    "GameName": "PlayerUnknown's Battlegrounds Mobile",
+    "Genre": "Battle Royale",
+    "Platform": "Mobile",
+    "ReleaseYear": 2017,
+    "Rating": 8.5,
+    "Description": "Battle royale game with mobile gameplay"
+  },
+  {
+    "GameID": 27,
+    "GameName": "Apex Legends Mobile",
+    "Genre": "Battle Royale",
+    "Platform": "Mobile",
+    "ReleaseYear": 2020,
+    "Rating": 9.1,
+    "Description": "Free-to-play battle royale game with mobile gameplay"
+  },
+  {
+    "GameID": 28,
+    "GameName": "PUBG Mobile",
+    "Genre": "Battle Royale",
+    "Platform": "Mobile",
+    "ReleaseYear": 2018,
+    "Rating": 8.9,
+    "Description": "Battle royale game with mobile gameplay"
+  },
+  {
+    "GameID": 29,
+    "GameName": "Garena Free Fire",
+    "Genre": "Battle Royale",
+    "Platform": "Mobile",
+    "ReleaseYear": 2017,
+    "Rating": 8.7,
+    "Description": "Battle royale game with mobile gameplay"
+  },
+  {
+    "GameID": 30,
+    "GameName": "Call of Duty: Mobile",
+    "Genre": "First-Person Shooter",
+    "Platform": "Mobile",
+    "ReleaseYear": 2019,
+    "Rating": 9.0,
+    "Description": "First-person shooter game with mobile gameplay"
+  },
+  {
+    "GameID": 31,
+    "GameName": "Among Us",
+    "Genre": "Multiplayer Online Social Game",
+    "Platform": "PC",
+    "ReleaseYear": 2018,
+    "Rating": 9.5,
+    "Description": "Multiplayer online social game with space setting"
+  },
+  {
+    "GameID": 32,
+    "GameName": "RimWorld",
+    "Genre": "Life Simulation",
+    "Platform": "PC",
+    "ReleaseYear": 2013,
+    "Rating": 9.4,
+    "Description": "Life simulation game with colony management"
+  },
+  {
+    "GameID": 33,
+    "GameName": "Stardew Valley",
+    "Genre": "Farming Simulation",
+    "Platform": "PC",
+    "ReleaseYear": 2016,
+    "Rating": 9.6,
+    "Description": "Farming simulation game with RPG elements"
+  },
+  {
+    "GameID": 34,
+    "GameName": "Factorio",
+    "Genre": "Sandbox",
+    "Platform": "PC",
+    "ReleaseYear": 2016,
+    "Rating": 9.8,
+    "Description": "Sandbox game with factory management"
+  },
+  {
+    "GameID": 35,
+    "GameName": "Terraria",
+    "Genre": "Action",
+    "Platform": "PC",
+    "ReleaseYear": 2011,
+    "Rating": 9.3,
+    "Description": "Action game with 2D side-scrolling gameplay"
+  },
+  {
+    "GameID": 36,
+    "GameName": "Minecraft Dungeons",
+    "Genre": "Action",
+    "Platform": "PC",
+    "ReleaseYear": 2020,
+    "Rating": 9.1,
+    "Description": "Action game with dungeon crawling gameplay"
+  },
+  {
+    "GameID": 37,
+    "GameName": "Hollow Knight",
+    "Genre": "Metroidvania",
+    "Platform": "PC",
+    "ReleaseYear": 2017,
+    "Rating": 9.9,
+    "Description": "Metroidvania game with atmospheric setting"
+  },
+  {
+    "GameID": 38,
+    "GameName": "Hyper Light Drifter",
+    "Genre": "Action",
+    "Platform": "PC",
+    "ReleaseYear": 2016,
+    "Rating": 9.6,
+    "Description": "Action game with top-down gameplay"
+  },
+  {
+    "GameID": 39,
+    "GameName": "Night in the Woods",
+    "Genre": "Adventure",
+    "Platform": "PC",
+    "ReleaseYear": 2017,
+    "Rating": 9.4,
+    "Description": "Adventure game with narrative-driven gameplay"
+  },
+  {
+    "GameID": 40,
+    "GameName": "Cuphead: Don't Deal with Dragons",
+    "Genre": "Run and Gun",
+    "Platform": "PC",
+    "ReleaseYear": 2017,
+    "Rating": 9.7,
+    "Description": "Run and gun game with challenging gameplay"
+  },
+  {
+    "GameID": 41,
+    "GameName": "Slay the Spire",
+    "Genre": "Roguelike",
+    "Platform": "PC",
+    "ReleaseYear": 2017,
+    "Rating": 9.5,
+    "Description": "Roguelike game with deck-building mechanics"
+  },
+  {
+    "GameID": 42,
+    "GameName": "Dead Cells",
+    "Genre": "Action",
+    "Platform": "PC",
+    "ReleaseYear": 2018,
+    "Rating": 9.8,
+    "Description": "Action game with roguelike gameplay"
+  },
+  {
+    "GameID": 43,
+    "GameName": "Celeste",
+    "Genre": "Platformer",
+    "Platform": "PC",
+    "ReleaseYear": 2018,
+    "Rating": 9.6,
+    "Description": "Platformer game with challenging gameplay"
+  },
+  {
+    "GameID": 44,
+    "GameName": "The Binding of Isaac: Rebirth",
+    "Genre": "Roguelike",
+    "Platform": "PC",
+    "ReleaseYear": 2014,
+    "Rating": 9.4,
+    "Description": "Roguelike game with bullet hell mechanics"
+  },
+  {
+    "GameID": 45,
+    "GameName": "Enter the Gungeon",
+    "Genre": "Roguelike",
+    "Platform": "PC",
+    "ReleaseYear": 2016,
+    "Rating": 9.5,
+    "Description": "Roguelike game with bullet hell mechanics"
+  },
+  {
+    "GameID": 46,
+    "GameName": "Hypercharge: Unboxed",
+    "Genre": "Action",
+    "Platform": "PC",
+    "ReleaseYear": 2020,
+    "Rating": 9.3,
+    "Description": "Action game with cartoonish setting"
+  },
+  {
+    "GameID": 47,
+    "GameName": "Forager",
+    "Genre": "Action",
+    "Platform": "PC",
+    "ReleaseYear": 2019,
+    "Rating": 9.2,
+    "Description": "Action game with farming and exploration mechanics"
+  },
+  {
+    "GameID": 48,
+    "GameName": "Unpacking",
+    "Genre": "Puzzle",
+    "Platform": "PC",
+    "ReleaseYear": 2021,
+    "Rating": 9.6,
+    "Description": "Puzzle game with unpacking mechanics"
+  },
+  {
+    "GameID": 49,
+    "GameName": "The Talos Principle",
+    "Genre": "Puzzle",
+    "Platform": "PC",
+    "ReleaseYear": 2014,
+    "Rating": 9.5,
+    "Description": "Puzzle game with philosophical setting"
+  },
+  {
+    "GameID": 50,
+    "GameName": "The Infectious Madness of Doctor Dekker",
+    "Genre": "Adventure",
+    "Platform": "PC",
+    "ReleaseYear": 2018,
+    "Rating": 9.4,
+    "Description": "Adventure game with detective gameplay"
+  }
+]

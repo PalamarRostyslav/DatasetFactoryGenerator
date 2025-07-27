@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "animal_type": "bird",
+    "name": "Sparrow",
+    "habitat": "forest",
+    "legs": 2,
+    "wings": true
+  },
+  {
+    "id": 2,
+    "animal_type": "mammal",
+    "name": "Deer",
+    "habitat": "grassland",
+    "legs": 4,
+    "wings": false
+  },
+  {
+    "id": 3,
+    "animal_type": "reptile",
+    "name": "Tortoise",
+    "habitat": "desert",
+    "legs": 4,
+    "wings": false
+  },
+  {
+    "id": 4,
+    "animal_type": "bird",
+    "name": "Eagle",
+    "habitat": "mountain",
+    "legs": 2,
+    "wings": true
+  },
+  {
+    "id": 5,
+    "animal_type": "amphibian",
+    "name": "Frog",
+    "habitat": "swamp",
+    "legs": 4,
+    "wings": false
+  }
+]

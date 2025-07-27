@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "name": "Super Mario Bros",
+    "genre": "Platformer",
+    "platform": "NES",
+    "release_year": 1985,
+    "developer": "Nintendo",
+    "multiplayer": false
+  },
+  {
+    "id": 2,
+    "name": "The Legend of Zelda",
+    "genre": "Action-adventure",
+    "platform": "NES",
+    "release_year": 1986,
+    "developer": "Nintendo",
+    "multiplayer": false
+  },
+  {
+    "id": 3,
+    "name": "Minecraft",
+    "genre": "Sandbox",
+    "platform": "PC",
+    "release_year": 2011,
+    "developer": "Mojang",
+    "multiplayer": true
+  },
+  {
+    "id": 4,
+    "name": "Call of Duty: Modern Warfare",
+    "genre": "Shooter",
+    "platform": "PC, PS4, Xbox One",
+    "release_year": 2019,
+    "developer": "Infinity Ward",
+    "multiplayer": true
+  },
+  {
+    "id": 5,
+    "name": "FIFA 21",
+    "genre": "Sports",
+    "platform": "PC, PS4, Xbox One",
+    "release_year": 2020,
+    "developer": "EA Sports",
+    "multiplayer": true
+  },
+  {
+    "id": 6,
+    "name": "Civilization VI",
+    "genre": "Strategy",
+    "platform": "PC",
+    "release_year": 2016,
+    "developer": "Firaxis Games",
+    "multiplayer": true
+  },
+  {
+    "id": 7,
+    "name": "Among Us",
+    "genre": "Casual",
+    "platform": "PC, Mobile",
+    "release_year": 2018,
+    "developer": "Innersloth",
+    "multiplayer": true
+  },
+  {
+    "id": 8,
+    "name": "Ghost of Tsushima",
+    "genre": "Action-adventure",
+    "platform": "PS4",
+    "release_year": 2020,
+    "developer": "Sucker Punch Productions",
+    "multiplayer": false
+  },
+  {
+    "id": 9,
+    "name": "Animal Crossing: New Horizons",
+    "genre": "Simulation",
+    "platform": "Nintendo Switch",
+    "release_year": 2020,
+    "developer": "Nintendo",
+    "multiplayer": true
+  },
+  {
+    "id": 10,
+    "name": "The Witcher 3: Wild Hunt",
+    "genre": "RPG",
+    "platform": "PC, PS4, Xbox One",
+    "release_year": 2015,
+    "developer": "CD Projekt",
+    "multiplayer": false
+  },
+  {
+    "id": 11,
+    "name": "Overwatch",
+    "genre": "Shooter",
+    "platform": "PC, PS4, Xbox One",
+    "release_year": 2016,
+    "developer": "Blizzard Entertainment",
+    "multiplayer": true
+  },
+  {
+    "id": 12,
+    "name": "Fortnite",
+    "genre": "Battle Royale",
+    "platform": "PC, PS4, Xbox One, Mobile",
+    "release_year": 2017,
+    "developer": "Epic Games",
+    "multiplayer": true
+  },
+  {
+    "id": 13,
+    "name": "Hearthstone",
+    "genre": "Card",
+    "platform": "PC, Mobile",
+    "release_year": 2014,
+    "developer": "Blizzard Entertainment",
+    "multiplayer": true
+  },
+  {
+    "id": 14,
+    "name": "League of Legends",
+    "genre": "MOBA",
+    "platform": "PC",
+    "release_year": 2009,
+    "developer": "Riot Games",
+    "multiplayer": true
+  },
+  {
+    "id": 15,
+    "name": "Stardew Valley",
+    "genre": "Simulation RPG",
+    "platform": "PC, Nintendo Switch",
+    "release_year": 2016,
+    "developer": "ConcernedApe",
+    "multiplayer": true
+  },
+  {
+    "id": 16,
+    "name": "Portal 2",
+    "genre": "Puzzle",
+    "platform": "PC, PS3, Xbox 360",
+    "release_year": 2011,
+    "developer": "Valve",
+    "multiplayer": true
+  },
+  {
+    "id": 17,
+    "name": "Tetris",
+    "genre": "Puzzle",
+    "platform": "Multiple",
+    "release_year": 1984,
+    "developer": "Alexey Pajitnov",
+    "multiplayer": false
+  },
+  {
+    "id": 18,
+    "name": "Resident Evil Village",
+    "genre": "Horror",
+    "platform": "PC, PS5, Xbox Series X",
+    "release_year": 2021,
+    "developer": "Capcom",
+    "multiplayer": false
+  },
+  {
+    "id": 19,
+    "name": "Grand Theft Auto V",
+    "genre": "Action-adventure",
+    "platform": "PC, PS4, Xbox One",
+    "release_year": 2013,
+    "developer": "Rockstar Games",
+    "multiplayer": true
+  },
+  {
+    "id": 20,
+    "name": "Rocket League",
+    "genre": "Sports",
+    "platform": "PC, PS4, Xbox One",
+    "release_year": 2015,
+    "developer": "Psyonix",
+    "multiplayer": true
+  },
+  {
+    "id": 21,
+    "name": "Dota 2",
+    "genre": "MOBA",
+    "platform": "PC",
+    "release_year": 2013,
+    "developer": "Valve",
+    "multiplayer": true
+  },
+  {
+    "id": 22,
+    "name": "Dark Souls III",
+    "genre": "Action RPG",
+    "platform": "PC, PS4, Xbox One",
+    "release_year": 2016,
+    "developer": "FromSoftware",
+    "multiplayer": false
+  },
+  {
+    "id": 23,
+    "name": "The Sims 4",
+    "genre": "Simulation",
+    "platform": "PC",
+    "release_year": 2014,
+    "developer": "Maxis",
+    "multiplayer": false
+  },
+  {
+    "id": 24,
+    "name": "Candy Crush Saga",
+    "genre": "Puzzle",
+    "platform": "Mobile",
+    "release_year": 2012,
+    "developer": "King",
+    "multiplayer": true
+  },
+  {
+    "id": 25,
+    "name": "Carcassonne",
+    "genre": "Board",
+    "platform": "PC, Mobile",
+    "release_year": 2015,
+    "developer": "Asmodee Digital",
+    "multiplayer": true
+  },
+  {
+    "id": 26,
+    "name": "Persona 5",
+    "genre": "RPG",
+    "platform": "PS4",
+    "release_year": 2017,
+    "developer": "Atlus",
+    "multiplayer": false
+  },
+  {
+    "id": 27,
+    "name": "Beat Saber",
+    "genre": "Rhythm",
+    "platform": "VR",
+    "release_year": 2018,
+    "developer": "Beat Games",
+    "multiplayer": false
+  },
+  {
+    "id": 28,
+    "name": "Spyro the Dragon",
+    "genre": "Platformer",
+    "platform": "PS1",
+    "release_year": 1998,
+    "developer": "Insomniac Games",
+    "multiplayer": false
+  },
+  {
+    "id": 29,
+    "name": "Apex Legends",
+    "genre": "Battle Royale",
+    "platform": "PC, PS4, Xbox One",
+    "release_year": 2019,
+    "developer": "Respawn Entertainment",
+    "multiplayer": true
+  },
+  {
+    "id": 30,
+    "name": "Alan Wake",
+    "genre": "Horror",
+    "platform": "PC, Xbox 360",
+    "release_year": 2010,
+    "developer": "Remedy Entertainment",
+    "multiplayer": false
+  },
+  {
+    "id": 31,
+    "name": "Papers, Please",
+    "genre": "Simulation Puzzle",
+    "platform": "PC",
+    "release_year": 2013,
+    "developer": "3909 LLC",
+    "multiplayer": false
+  },
+  {
+    "id": 32,
+    "name": "Minecraft Dungeons",
+    "genre": "Action-adventure",
+    "platform": "PC, PS4, Xbox One",
+    "release_year": 2020,
+    "developer": "Mojang",
+    "multiplayer": true
+  },
+  {
+    "id": 33,
+    "name": "The Elder Scrolls V: Skyrim",
+    "genre": "Action RPG",
+    "platform": "PC, PS3, Xbox 360",
+    "release_year": 2011,
+    "developer": "Bethesda Game Studios",
+    "multiplayer": false
+  },
+  {
+    "id": 34,
+    "name": "Splatoon 2",
+    "genre": "Shooter",
+    "platform": "Nintendo Switch",
+    "release_year": 2017,
+    "developer": "Nintendo",
+    "multiplayer": true
+  },
+  {
+    "id": 35,
+    "name": "Baldur's Gate 3",
+    "genre": "RPG",
+    "platform": "PC, PS5",
+    "release_year": 2023,
+    "developer": "Larian Studios",
+    "multiplayer": true
+  }
+]

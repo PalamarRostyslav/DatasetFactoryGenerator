@@ -1,0 +1,317 @@
+[
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Action-Adventure",
+    "platform": "Nintendo Switch",
+    "release_year": 2017,
+    "rating": "E10+",
+    "multiplayer": false,
+    "developer": "Nintendo EPD"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare",
+    "genre": "First-Person Shooter",
+    "platform": "PlayStation 4",
+    "release_year": 2019,
+    "rating": "M",
+    "multiplayer": true,
+    "developer": "Infinity Ward"
+  },
+  {
+    "title": "Chess",
+    "genre": "Strategy",
+    "platform": "Board Game",
+    "release_year": 1475,
+    "rating": "E",
+    "multiplayer": true,
+    "developer": "Traditional"
+  },
+  {
+    "title": "Tetris",
+    "genre": "Puzzle",
+    "platform": "Multi-platform",
+    "release_year": 1984,
+    "rating": "E",
+    "multiplayer": false,
+    "developer": "Alexey Pajitnov"
+  },
+  {
+    "title": "FIFA 23",
+    "genre": "Sports",
+    "platform": "Xbox Series X",
+    "release_year": 2022,
+    "rating": "E",
+    "multiplayer": true,
+    "developer": "EA Sports"
+  },
+  {
+    "title": "Final Fantasy XIV",
+    "genre": "MMORPG",
+    "platform": "PC",
+    "release_year": 2010,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "Square Enix"
+  },
+  {
+    "title": "Gran Turismo 7",
+    "genre": "Racing",
+    "platform": "PlayStation 5",
+    "release_year": 2022,
+    "rating": "E",
+    "multiplayer": true,
+    "developer": "Polyphony Digital"
+  },
+  {
+    "title": "Monopoly",
+    "genre": "Strategy",
+    "platform": "Board Game",
+    "release_year": 1935,
+    "rating": "E",
+    "multiplayer": true,
+    "developer": "Parker Brothers"
+  },
+  {
+    "title": "Resident Evil 4",
+    "genre": "Survival Horror",
+    "platform": "GameCube",
+    "release_year": 2005,
+    "rating": "M",
+    "multiplayer": false,
+    "developer": "Capcom"
+  },
+  {
+    "title": "Candy Crush Saga",
+    "genre": "Puzzle",
+    "platform": "Mobile",
+    "release_year": 2012,
+    "rating": "E",
+    "multiplayer": false,
+    "developer": "King"
+  },
+  {
+    "title": "Street Fighter 6",
+    "genre": "Fighting",
+    "platform": "PlayStation 5",
+    "release_year": 2023,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "Capcom"
+  },
+  {
+    "title": "The Sims 4",
+    "genre": "Life Simulation",
+    "platform": "PC",
+    "release_year": 2014,
+    "rating": "T",
+    "multiplayer": false,
+    "developer": "Maxis"
+  },
+  {
+    "title": "Counter-Strike: Global Offensive",
+    "genre": "First-Person Shooter",
+    "platform": "PC",
+    "release_year": 2012,
+    "rating": "M",
+    "multiplayer": true,
+    "developer": "Valve"
+  },
+  {
+    "title": "Dungeons & Dragons",
+    "genre": "Role-Playing",
+    "platform": "Tabletop",
+    "release_year": 1974,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "TSR"
+  },
+  {
+    "title": "Mario Kart 8 Deluxe",
+    "genre": "Racing",
+    "platform": "Nintendo Switch",
+    "release_year": 2017,
+    "rating": "E",
+    "multiplayer": true,
+    "developer": "Nintendo EPD"
+  },
+  {
+    "title": "Civilization VI",
+    "genre": "Turn-Based Strategy",
+    "platform": "PC",
+    "release_year": 2016,
+    "rating": "E10+",
+    "multiplayer": true,
+    "developer": "Firaxis Games"
+  },
+  {
+    "title": "Poker",
+    "genre": "Card Game",
+    "platform": "Traditional",
+    "release_year": 1829,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "Traditional"
+  },
+  {
+    "title": "Among Us",
+    "genre": "Social Deduction",
+    "platform": "Mobile",
+    "release_year": 2018,
+    "rating": "E10+",
+    "multiplayer": true,
+    "developer": "InnerSloth"
+  },
+  {
+    "title": "Minecraft",
+    "genre": "Sandbox",
+    "platform": "Multi-platform",
+    "release_year": 2011,
+    "rating": "E10+",
+    "multiplayer": true,
+    "developer": "Mojang Studios"
+  },
+  {
+    "title": "NBA 2K23",
+    "genre": "Sports",
+    "platform": "Xbox Series X",
+    "release_year": 2022,
+    "rating": "E",
+    "multiplayer": true,
+    "developer": "Visual Concepts"
+  },
+  {
+    "title": "Portal 2",
+    "genre": "Puzzle-Platformer",
+    "platform": "PC",
+    "release_year": 2011,
+    "rating": "E10+",
+    "multiplayer": true,
+    "developer": "Valve"
+  },
+  {
+    "title": "World of Warcraft",
+    "genre": "MMORPG",
+    "platform": "PC",
+    "release_year": 2004,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "title": "Scrabble",
+    "genre": "Word Game",
+    "platform": "Board Game",
+    "release_year": 1938,
+    "rating": "E",
+    "multiplayer": true,
+    "developer": "Alfred Mosher Butts"
+  },
+  {
+    "title": "Dark Souls III",
+    "genre": "Action RPG",
+    "platform": "PlayStation 4",
+    "release_year": 2016,
+    "rating": "M",
+    "multiplayer": true,
+    "developer": "FromSoftware"
+  },
+  {
+    "title": "Fortnite",
+    "genre": "Battle Royale",
+    "platform": "Multi-platform",
+    "release_year": 2017,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "Epic Games"
+  },
+  {
+    "title": "Animal Crossing: New Horizons",
+    "genre": "Life Simulation",
+    "platform": "Nintendo Switch",
+    "release_year": 2020,
+    "rating": "E",
+    "multiplayer": true,
+    "developer": "Nintendo EPD"
+  },
+  {
+    "title": "Overwatch 2",
+    "genre": "Hero Shooter",
+    "platform": "Multi-platform",
+    "release_year": 2022,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "title": "Sudoku",
+    "genre": "Logic Puzzle",
+    "platform": "Paper/Digital",
+    "release_year": 1979,
+    "rating": "E",
+    "multiplayer": false,
+    "developer": "Howard Garns"
+  },
+  {
+    "title": "StarCraft II",
+    "genre": "Real-Time Strategy",
+    "platform": "PC",
+    "release_year": 2010,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "genre": "Platformer",
+    "platform": "Nintendo Switch",
+    "release_year": 2017,
+    "rating": "E10+",
+    "multiplayer": false,
+    "developer": "Nintendo EPD"
+  },
+  {
+    "title": "Blackjack",
+    "genre": "Card Game",
+    "platform": "Traditional",
+    "release_year": 1700,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "Traditional"
+  },
+  {
+    "title": "Rocket League",
+    "genre": "Sports-Racing Hybrid",
+    "platform": "Multi-platform",
+    "release_year": 2015,
+    "rating": "E",
+    "multiplayer": true,
+    "developer": "Psyonix"
+  },
+  {
+    "title": "Silent Hill 2",
+    "genre": "Survival Horror",
+    "platform": "PlayStation 2",
+    "release_year": 2001,
+    "rating": "M",
+    "multiplayer": false,
+    "developer": "Team Silent"
+  },
+  {
+    "title": "League of Legends",
+    "genre": "MOBA",
+    "platform": "PC",
+    "release_year": 2009,
+    "rating": "T",
+    "multiplayer": true,
+    "developer": "Riot Games"
+  },
+  {
+    "title": "Pac-Man",
+    "genre": "Arcade",
+    "platform": "Arcade",
+    "release_year": 1980,
+    "rating": "E",
+    "multiplayer": false,
+    "developer": "Namco"
+  }
+]
